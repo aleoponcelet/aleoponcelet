@@ -7,6 +7,6 @@
 ### Latest Posts
 <!-- feed start -->
 
-- Feb 26 - [How I install Arch Linux](https://aleoponcelet.github.io/posts/how-i-install-arch-linux/)
+- Feb 27 - [How I install Arch Linux](https://aleoponcelet.github.io/posts/how-i-install-arch-linux/)
 
 <!-- feed end -->
