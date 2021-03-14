@@ -7,6 +7,7 @@
 ### Latest Posts
 <!-- feed start -->
 
-- Feb 27 - [How I install Arch Linux](https://aleoponcelet.github.io/posts/how-i-install-arch-linux/)
+- Mar 14 - [Git Cheatsheet](https://aleoponcelet.com/posts/git-cheatsheet/)
+- Feb 27 - [How I install Arch Linux](https://aleoponcelet.com/posts/how-i-install-arch-linux/)
 
 <!-- feed end -->
