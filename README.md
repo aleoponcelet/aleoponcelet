@@ -2,7 +2,7 @@
 
 - 🔭 Interested in JS,  Python, Android 
 - 🐧 Arch Linux is my main OS
-- 🔖 Check out my blog: https://aleoponcelet.github.io/
+- 🔖 Check out my blog: https://aleoponcelet.com/
 
 ### Latest Posts
 <!-- feed start -->
