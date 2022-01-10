@@ -1,7 +1,7 @@
 ### Hey, there 👋
 
 - 🔭 Interested in JS,  Python, Android 
-- 🐧 Arch Linux as my main OS
+- 🐧 Fedora as main os
 - 🔖 Check out my blog: https://aleoponcelet.com/
 
 ### Latest Posts
