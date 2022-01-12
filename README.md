@@ -1,13 +1,15 @@
-### Hey, there 👋
+```js
+import Profile from 'aleoponcelet';
 
-- 🔭 Interested in JS,  Python, Android 
-- 🐧 Fedora as main os
-- 🔖 Check out my blog: https://aleoponcelet.com/
+class Bio extends Profile {
+  name     = 'Alejandro Ponce';
+  title    = 'Front-End Web Developer';
+  company  = 'Seprok | Remote';
+  location = 'Jalisco, MEX';
+}
 
-### Latest Posts
-<!-- feed start -->
-
-- Mar 14 - [Git Cheatsheet](https://aleoponcelet.com/posts/git_cheatsheet/)
-- Feb 27 - [How I install Arch Linux](https://aleoponcelet.com/posts/linux_installation_guide/)
-
-<!-- feed end -->
+class Skills extends Profile {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB'];
+}
+```
