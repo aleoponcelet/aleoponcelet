@@ -9,7 +9,8 @@ class bio extends profile {
 }
 
 class skills extends profile {
-  code  = [Javascript, HTML, CSS, Python, Java];
-  databases  = [MySQL, MongoDB];
+  os    = "Linux";
+  code  = [HTML, CSS, JS, PHP, Python, Java];
+  tools = [React, Redux, Node, Storybook, Jest, Docker];
 }
 ```
