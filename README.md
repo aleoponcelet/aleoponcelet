@@ -3,9 +3,9 @@ import profile from "aleoponcelet";
 
 class bio extends profile {
   name     = "Alejandro Ponce";
-  email    = "alejandro.poncelet@icloud.com";
+  email    = "alejandro.poncet@icloud.com";
   title    = "Front-end web developer";
-  company  = "SEPROK" | "Remote";
+  company  = "Seprok" | "Remote";
   location = "Jalisco, MEX";
 }
 
