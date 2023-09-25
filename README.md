@@ -5,7 +5,7 @@ class bio extends profile {
   name     = "Alejandro Ponce";
   email    = "alejandro.poncet@icloud.com";
   title    = "Web developer";
-  company  = "Seprok" | "Remote";
+  company  = "Embuno";
   location = "Jalisco, MEX";
 }
 
