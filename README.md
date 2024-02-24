@@ -11,7 +11,7 @@ class bio extends profile {
 
 class skills extends profile {
   os    = "Linux";
-  code  = [HTML, CSS, JS, PHP, Python, Java];
+  code  = [HTML, CSS, JS, PHP];
   tools = [React, Redux, Node, Storybook, Jest, Docker];
 }
 ```
