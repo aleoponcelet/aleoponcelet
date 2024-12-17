@@ -1,16 +1,12 @@
+### 👋 Hi, I'm Alejandro! 
+
+Full-stack web developer creating modern and scalable solutions. Based in Mexico.
+
 ```js
-import profile from "aleoponcelet";
-
-class bio extends profile {
-  name     = "Alejandro Ponce";
-  email    = "alejandro.poncet@icloud.com";
-  title    = "Web developer";
-  location = "Jalisco, MEX";
-}
-
-class skills extends profile {
-  os    = "Linux";
-  code  = [HTML, CSS, JS, PHP];
-  tools = [React, Redux, Node, Storybook, Jest, Docker];
-}
+const alejandro = {
+  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
+  frameworks: ["React", "Astro"],
+  tools: ["Git", "Jest", "Docker"],
+};
 ```
+[![Linkedin Badge](https://img.shields.io/badge/-aleoponcelet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleoponcelet/)](https://www.linkedin.com/in/aleoponcelet/)
